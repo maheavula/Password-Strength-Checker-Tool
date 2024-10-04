@@ -1,4 +1,4 @@
-# 🔒 Password Strength Checker
+# 🔒 Password Strength Checker  | [YouTube Video](https://www.youtube.com/watch?v=rF9PwboFnDU)
 
 A Python-based password strength checker that evaluates the strength and complexity of a password using specific rules, provides feedback for improvement, calculates entropy, and estimates the time required for a brute-force attack.
 
